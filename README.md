@@ -311,3 +311,12 @@ Each subplot corresponds to a single feature and compares its distribution acros
 
 Several features exhibit clear separation or shifted distributions between the two classes, providing direct evidence that these features encode genuine structural differences in the data rather than model-induced artifacts.  
 This further validates the effectiveness of the feature engineering strategy prior to modeling.
+
+## Acknowledgment
+
+Part of the modeling ideas and implementation details were inspired by the open-source solution shared by **aParsecFromFuture**.  
+We gratefully acknowledge the author for contributing to the community.
+
+Repository link:  
+https://github.com/aParsecFromFuture/ADIA-Lab-Structural-Break-Challenge-Solution
+
